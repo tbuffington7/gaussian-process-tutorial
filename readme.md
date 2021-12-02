@@ -1,5 +1,5 @@
 # Description
-This is a repository to help people understand the intuition behind Gaussian processes and Gaussian process regression. 
+This is a repository to help others understand the intuition behind Gaussian processes and Gaussian process regression. 
 
 The basic idea is that we start with univariate normal distributions, which most people are familiar with. The notebook lets users visualize the effects of changing
 the mean and variance of this distribution. Then we look at bivariate normals, which are characterized by mean vectors and covariance matricies.
