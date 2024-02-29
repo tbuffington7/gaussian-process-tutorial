@@ -17,3 +17,4 @@ This may be helpful to see for some as it explicitly shows the matrix algebra re
 - pandas
 - matplotlib
 - scipy
+- jupyter
